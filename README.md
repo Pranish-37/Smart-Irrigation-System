@@ -18,9 +18,6 @@ This project is a precise automatic watering system for plants, using Arduino Un
 - Micro servo motor
 - Jumper wires
 - Breadboard
-- Diodes
-- NPN transistors
-- Resistors
 
 ## How It Works
 1. Soil moisture sensor detects moisture levels.
