@@ -26,7 +26,7 @@ This project is a precise automatic watering system for plants, using Arduino Un
 
 ## Installation Instructions
 1. Set up the Arduino and connect all components as shown in the circuit diagram.
-2. Upload the Arduino code provided in the `code/` directory.
+2. Download the main.ino code and run.
 3. Power the system and monitor the results.
 
 ## Future Improvements
